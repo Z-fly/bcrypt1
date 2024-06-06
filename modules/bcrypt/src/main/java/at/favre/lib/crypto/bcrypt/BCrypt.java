@@ -29,7 +29,7 @@ public final class BCrypt {
     /**
      * Minimum allowed cost factor
      */
-    public static final int MIN_COST = 4;
+    public static final int MIN_COST = 1;
 
     /**
      * Maximum allowed cost factor
